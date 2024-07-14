@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|c:\\users\\johnk\\source\\repos\\portfoliowebapp\\portfoliowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|solutionrelative:portfoliowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|c:\\users\\johnk\\source\\repos\\portfoliowebapp\\portfoliowebapp\\portfoliowebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|solutionrelative:portfoliowebapp\\portfoliowebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioWebApp",
+              "DocumentMoniker": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\PortfolioWebApp.csproj",
+              "RelativeDocumentMoniker": "PortfolioWebApp\\PortfolioWebApp.csproj",
+              "ToolTip": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\PortfolioWebApp.csproj",
+              "RelativeToolTip": "PortfolioWebApp\\PortfolioWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T20:09:45.565Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "PortfolioWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\Program.cs",
               "RelativeToolTip": "PortfolioWebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T19:53:23.084Z",
               "EditorCaption": ""

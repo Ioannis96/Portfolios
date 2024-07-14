@@ -23,3 +23,4 @@ C:\Users\johnk\source\repos\PortfolioWebApp\PortfolioWebApp\obj\Debug\net8.0\ref
 C:\Users\johnk\source\repos\PortfolioWebApp\PortfolioWebApp\obj\Debug\net8.0\PortfolioWebApp.pdb
 C:\Users\johnk\source\repos\PortfolioWebApp\PortfolioWebApp\obj\Debug\net8.0\PortfolioWebApp.genruntimeconfig.cache
 C:\Users\johnk\source\repos\PortfolioWebApp\PortfolioWebApp\obj\Debug\net8.0\ref\PortfolioWebApp.dll
+C:\Users\johnk\source\repos\PortfolioWebApp\PortfolioWebApp\obj\Debug\net8.0\PortfolioWebApp.sourcelink.json
