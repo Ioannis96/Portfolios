@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|c:\\users\\johnk\\source\\repos\\portfoliowebapp\\portfoliowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|solutionrelative:portfoliowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|c:\\users\\johnk\\source\\repos\\portfoliowebapp\\portfoliowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26936376-6A45-4A2F-8EC3-35A7FA8423B1}|PortfolioWebApp\\PortfolioWebApp.csproj|solutionrelative:portfoliowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PortfolioWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\appsettings.json",
+              "RelativeToolTip": "PortfolioWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T19:55:51.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\johnk\\source\\repos\\PortfolioWebApp\\PortfolioWebApp\\Program.cs",
+              "RelativeToolTip": "PortfolioWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:53:23.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
